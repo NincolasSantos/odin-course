@@ -21,3 +21,5 @@ Por exemplo,
 git add .é lido como git | add | ., onde o ponto representa tudo no diretório atual;
 git commit -m "message"é lido como git | commit -m | "message"; e
 git statusé lido como git | status | (no destination)."
+
+teste
